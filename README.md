@@ -189,3 +189,9 @@ spring.flyway.locations=classpath:db/migrations
 
 Agradecemos a todos los colaboradores y a la comunidad de desarrollo por su apoyo en la creación y mejora de este proyecto. ¡Gracias por ser parte de esta comunidad de aprendizaje!
 
+
+
+  
+
+  
+
